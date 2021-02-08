@@ -1,0 +1,220 @@
+a:hover,
+.list-block-wrap .list-block span,
+.widget a:hover,
+.post .entry-header .entry-meta>span i,
+.attachment .entry-header .entry-meta>span i,
+body:not(.single):not(.single-post) .post.format-standard.sticky:after,
+.wp-block-button.is-style-outline,
+.recent-post-container .recent-post-wrap .recent-post .recent-post-content .entry-meta,
+.logged-in-as a:hover {
+    color: #e71d36
+}
+
+.heading-custom .heading:after,
+h2.widget-title:after,
+.widget.widget_search .search-form .search-submit,
+.search.search-no-results .search-form .search-submit,
+.with-border:after,
+.wp-block-button__link,
+.wp-block-file .wp-block-file__button,
+.wp-block-button.is-style-outline .wp-block-button__link:hover,
+.post .entry-content .link-more .more-link,
+.attachment .entry-content .link-more .more-link,
+button,
+input[type="button"],
+input[type="submit"] {
+    background-color: #e71d36
+}
+
+.wp-block-button.is-style-outline .wp-block-button__link:hover,
+blockquote,
+.wp-block-quote[style*="text-align:right"] {
+    border-color: #e71d36
+}
+
+.cbp-l-filters-text .cbp-filter-item.cbp-filter-item-active,
+.widget_rss .rss-date,
+.widget_rss li cite,
+.post .entry-header .entry-meta a:hover,
+.attachment .entry-header .entry-meta a:hover {
+    color: #e71d36
+}
+
+.single-portfolio .portfolio .portfolio-social-share-links a:hover,
+.entry-footer .socials-share-links ul li a:hover,
+.post .entry-header .entry-meta>span:after,
+.attachment .entry-header .entry-meta>span:after,
+.error-404.not-found .page-content a,
+.swiper-pagination-bullet-active {
+    background-color: #e71d36
+}
+
+.cbp:after,
+.cbp-lazyload:after,
+.cbp-popup-loadingBox:after,
+.cbp-popup-singlePageInline:after,
+.cbp-popup-lightbox .cbp-popup-loadingBox:after {
+    border-left-color: #e71d36
+}
+
+.cbp:after,
+.cbp-lazyload:after,
+.cbp-popup-loadingBox:after,
+.cbp-popup-singlePageInline:after,
+.cbp-popup-lightbox .cbp-popup-loadingBox:after {
+    border-right-color: #e71d36
+}
+
+.cbp:after,
+.cbp-lazyload:after,
+.cbp-popup-loadingBox:after,
+.cbp-popup-singlePageInline:after,
+.cbp-popup-lightbox .cbp-popup-loadingBox:after {
+    border-bottom-color: #e71d36
+}
+
+.list-block-wrap.style-2 .list-block:before {
+    background-color: #e71d36
+}
+
+.main-navigation .menu>li.current:before,
+.main-navigation .menu>li.current-menu-ancestor:before,
+.main-navigation .menu>li.current-menu-item:before,
+.main-navigation .menu>li.current-menu-parent:before {
+    background-color: #e71d36
+}
+
+body,
+.page-preloader,
+.content-area .content-right-wrap,
+.content-area .site-main-wrap:after,
+.content-area .site-main-wrap:before {
+    background-color: #334452
+}
+
+.content-area .site-main-wrap {
+    background-color: #fff
+}
+
+@media ( max-width:767px) {
+    body {
+        background-color: #fff
+    }
+}
+
+.cbp-l-caption-title,
+.cbp-l-grid-agency-title,
+.cbp-l-filters-text .cbp-filter-item,
+input[type="button"],
+input[type="submit"],
+.cbp-l-grid-agency-desc,
+.cbp-l-caption-desc,
+.cbp-l-grid-projects-desc,
+.cbp-popup-lightbox-title,
+.cbp-popup-lightbox-counter,
+.cbp-l-grid-agency-desc,
+input,
+select,
+textarea,
+body {
+    font-family: Roboto
+}
+
+h1 {
+    font-size: 38px
+}
+
+h2 {
+    font-size: 32px
+}
+
+h3 {
+    font-size: 28px
+}
+
+h4 {
+    font-size: 24px
+}
+
+h5 {
+    font-size: 20px
+}
+
+h6 {
+    font-size: 18px
+}
+
+p {
+    font-size: 15px
+}
+
+.retina-logo {
+    max-width: 91px !important
+}
+
+@media ( max-width:1023px) {
+    #ham-sidebar-close-desktop,
+    #secondary .widget-area {
+        top: 61px
+    }
+    .site-content-contain {
+        margin-top: 61px
+    }
+}
+
+#masthead.site-header.standard #site-navigation .menu>li>a {
+    font-size: 16px
+}
+
+.navigation-area .navi-left-wrap {
+    background-color: rgba(1, 22, 39, 1)
+}
+
+#masthead-mobile,
+#masthead-mobile .main-navigation-mobile {
+    background-color: #06233B
+}
+
+.navigation-area #masthead {
+    border-left-color: rgba(255, 255, 255, 0.15)
+}
+
+#masthead-mobile .main-navigation-mobile .menu-mobile>li {
+    border-top-color: rgba(255, 255, 255, 0.15)
+}
+
+.main-navigation-mobile .menu-mobile>li a,
+.main-navigation-mobile .menu>li a,
+.main-navigation .menu-mobile>li a,
+.main-navigation .menu>li a {
+    color: rgba(255, 255, 255, 1)
+}
+
+.main-navigation-mobile .menu-mobile>li.current>a,
+.main-navigation-mobile .menu-mobile>li.current-menu-item>a,
+.main-navigation-mobile .menu-mobile>li.current-menu-parent>a,
+.main-navigation-mobile .menu-mobile>li ul li.current-menu-ancestor>a,
+.main-navigation-mobile .menu-mobile>li.current-menu-ancestor>a,
+.main-navigation .menu>li.current-page-ancestor>a,
+.main-navigation .menu>li.current>a,
+.main-navigation .menu>li.current-menu-item>a,
+.main-navigation .menu>li.current-menu-parent>a,
+.main-navigation .menu>li.current-menu-ancestor>a,
+.main-navigation .menu>li ul li.current-menu-ancestor>a {
+    color: rgba(255, 255, 255, .4)
+}
+
+.main-navigation-mobile .menu-mobile>li a:hover,
+.main-navigation-mobile .menu>li a:hover,
+.main-navigation .menu-mobile>li a:hover,
+.main-navigation .menu>li a:hover {
+    color: rgba(255, 255, 255, .4)
+}
+
+#footer.site-footer {
+    background-color: #ffffff
+}
+
+.site-footer .copyright {
+    color: #707070
+}
